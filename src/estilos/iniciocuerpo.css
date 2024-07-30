@@ -1,0 +1,66 @@
+.bodi{
+    height: 734px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.card1{
+    
+    border: 10px solid white;   
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    
+   
+}
+
+.contenido {
+    z-index: 3;
+    display: flex;
+    align-items: center;
+    flex-direction: column; 
+    color: white;
+    padding: 20px;
+    height: 400px;
+    width: 1000px;
+    justify-content: center;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.info{
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+.icon {
+    color: aliceblue;
+    align-items: center;
+    transform: scale(3.0);
+    margin: 25px;
+}
+
+.nombre {
+    transform: scale(2.5);
+    margin: 20px 0;
+}
+
+.categorias{
+    height: 922px;
+    padding: 20px;
+    background-color: #fee3e5;
+    display: flex;
+
+}
+
+.animate__rubberBand{
+    transform: all 0.2s;
+}
+
+

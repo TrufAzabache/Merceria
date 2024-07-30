@@ -1,0 +1,13 @@
+.email {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.insta{
+    display: flex;
+    align-items: center;
+    transform: scale(1.5);
+    color: white;
+}

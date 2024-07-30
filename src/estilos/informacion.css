@@ -1,0 +1,84 @@
+.infor {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 734px;
+    justify-content: space-between;
+    padding: 150px;
+
+}
+
+.cuadro{
+    
+    color: rgb(0, 0, 0);
+    width: 1000px;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cuadro:hover {
+    transform: scale(1.2);
+    z-index: 3;
+}
+
+.cuadro2{
+    
+    color: rgb(0, 0, 0);
+    width: 1000px;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.cuadro2:hover {
+    transform: scale(1.2);
+    z-index: 3;
+}
+
+.caja1 {
+    border: 3px solid #cf898e;
+    background-color: rgb(255, 234, 234);
+    padding: 20px;
+    
+    display: flex;
+    align-items: center;
+    width: 700px;
+    
+}
+
+.caja2 {
+    border: 3px solid #cf898e;
+    background-color: rgb(255, 234, 234);
+    padding: 20px;
+    
+    display: flex;
+    align-items: center;
+    width: 700px;
+}
+
+.parr1 {
+    display: flex;
+    margin-right: 10px;
+}
+
+.parr2 {
+    display: flex;
+    margin-left: 10px;
+}
+
+.elena {
+    border-radius: 50%;
+    width: 170px;
+    transform: scale(2.3);
+}
+
+.nieves {
+    border-radius: 50%;
+    width: 170px;
+    transform: scale(2.3);
+}
+
+

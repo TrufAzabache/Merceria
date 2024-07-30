@@ -1,0 +1,45 @@
+.contacto-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 734px;
+    padding: 150px;
+}
+
+.margen1 {
+    
+    display: flex;
+    align-items: center;
+    height: 500px;
+    width: 500px;
+    transform: rotate(45deg);
+    background-color: white;
+    opacity: 80%;
+}
+
+.margen2 {
+    
+    display: flex;
+    align-items: center;
+    height: 500px;
+    width: 500px;
+    transform: rotate(-45deg);
+    background-color: white;
+    opacity: 50%;
+}
+
+.texto-contacto {
+    color: black;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    height: 100px;
+    width: 250px;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.resp{
+    color: grey;
+}
